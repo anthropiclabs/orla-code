@@ -1,4 +1,4 @@
-# Aurora Claude Code ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) 
+# Aurora Claude Companion ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) 
 
 
 <img width="1376" height="768" alt="aurora2" src="https://github.com/user-attachments/assets/b4564347-d80c-4909-b9c2-fa2411e2f5d3" />
